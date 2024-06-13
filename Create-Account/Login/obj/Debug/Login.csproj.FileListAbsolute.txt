@@ -1,0 +1,13 @@
+C:\Users\PC 3\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\PC 3\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\PC 3\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.LoginSuccessForm.resources
+C:\Users\PC 3\source\repos\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\PC 3\source\repos\Login\Login\obj\Debug\Login.csproj.Up2Date
